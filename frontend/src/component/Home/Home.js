@@ -31,7 +31,7 @@ const Home = () => {
 
           <div className="banner">
             <p>Hola Sole Seekers!</p>
-            <h1>YOUR DESTINAATION FOR SNEAKER EXCELLENCE</h1>
+            <h1>YOUR DESTINATION FOR SNEAKER EXCELLENCE</h1>
 
             <a href="#container">
               <button>
